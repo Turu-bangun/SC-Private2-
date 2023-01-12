@@ -2,7 +2,7 @@
 let { MessageType } = (await import('@adiwajshing/baileys')).default
 let handler = async (m, { conn, text, participants }) => {
   let users = participants.map(u => u.jid)
-  m.reply(text + '\n Hai Saya ZykoBotz-MD Jangan Lupa Suscribe Youtube Nakano-MD Official\n\nAtau bisa klik link Youtube : https://youtube.com/@Putra_Modz_ ', null, {
+  m.reply(text + '\n Hai Saya Nakano-MD Jangan Lupa Suscribe Youtube Nakano-MD Official\n\nAtau bisa klik link Youtube : https://youtube.com/@Putra_Modz_ ', null, {
     contextInfo: { mentionedJid: users }
   })
 }
