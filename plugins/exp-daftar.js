@@ -80,7 +80,7 @@ const listMessage = {
 │💌 *umur:*  ${age} ʏᴇᴀʀs
 │💌 *sn:* ${sn}
 ┗──────────────···
-Subscribe YT ZykoBotz-MD
+Subscribe YT PutraModz
 
 ${global.bottime}
 `
@@ -99,7 +99,7 @@ ${global.bottime}
 'previewType':'pdf',
 'title':global.titlebot,
 'body':global.titlebot,
-'thumbnail':await(await fetch('https://telegra.ph/file/985d0da7fc786d006e2d3.jpg')).buffer(),
+'thumbnail':await(await fetch('https://telegra.ph/file/1d793742e396044ba756e.jpg')).buffer(),
 'sourceUrl':sgc}},
 'caption':bottime,
 'footer':cap,
